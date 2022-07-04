@@ -77,7 +77,7 @@ ${chalk.bgRed('BY Rizkk')}
 →  ${chalk.green(`Tropy  : ${trophy}`)}  
 →  ${chalk.green(`Crown : ${crown}`)}
 →  ${chalk.green(`Status : ✔ Success`)}`);
-        await delay(2500);
+        await delay(1500);
 
             } else if (result == 'BANNED') {
 
